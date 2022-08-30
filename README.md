@@ -56,10 +56,10 @@
 ### :lotus_position_man: Connect with me :
 <div id="connect">
   <a href="https://www.instagram.com/mo_ashraaf22/">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instagram" width="50" height="50"/>
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instagram" width="50" height="50"/>&nbsp;
   </a>
   <a href="https://www.facebook.com/mohamed2001m">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" alt="facebook" width="50" height="50"/>
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" alt="facebook" width="50" height="50"/>&nbsp;
   </a>
   <a href="https://codeforces.com/profile/Mo-AShraaf">
     <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeforces.svg" alt="codeforces" width="50" height="50"/>
