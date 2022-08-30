@@ -53,5 +53,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
 </div>
 
-
+### :lotus_position_man: Connect with me :
+<div id="connect">
+  <a href="https://www.instagram.com/mo_ashraaf22/">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instagram"/>
+  </a>
+  <a href="https://www.facebook.com/mohamed2001m">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" alt="facebook"/>
+  </a>
+  <a href="https://codeforces.com/profile/Mo-AShraaf">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeforces.svg" alt="codeforces"/>
+  </a>
+</div>
 
