@@ -29,7 +29,6 @@
 - :man_technologist:  I am a Junior programmer  at Faculty of Computers & Informatics at Suez Canal University.
 - :computer:  I am a competitive programmer at Codeforces, LeetCode and AtCoder.
 - :closed_book:  I like reading
-- :snake:  I’m currently learning Python.
 - :dancing_men:  I'm looking to collaborate with other developers.
 
 
