@@ -27,7 +27,7 @@
 
 ### :nerd_face: Who am I? (Briefly):
 - :man_technologist:  I am a Junior programmer  at Faculty of Computers & Informatics at Suez Canal University.
-- :computer:  I am a competitive programmer at Codeforces, LeetCode and AtCoder.
+- :computer:  I am a competitive programmer at Codeforces, LeetCode, AtCoder, and Codechef.
 - :closed_book:  I like reading
 - :dancing_men:  I'm looking to collaborate with other developers.
 
@@ -48,8 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="XD" alt="XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
 
 ### :lotus_position_man: Connect with me :
