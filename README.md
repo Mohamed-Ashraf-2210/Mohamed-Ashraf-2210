@@ -7,17 +7,6 @@
     <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
   </div>
   
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/mohamed-ashraf-957807210/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/mo_ashraaf22/">
-      <img src="https://img.shields.io/badge/instagram-red ?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-    </a>
-    <a href="https://www.facebook.com/mohamed2001m">
-      <img src="https://img.shields.io/badge/facebook-blue ?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
-    </a>
-  </div>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
   </div>
