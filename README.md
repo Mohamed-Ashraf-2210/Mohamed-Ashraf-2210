@@ -60,3 +60,5 @@
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-Ashraf-2210&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ashraf-2210" alt="Mohamed-Ashraf-2210" /></a> </p>
+
