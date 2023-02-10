@@ -60,5 +60,14 @@
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-Ashraf-2210&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ashraf-2210" alt="Mohamed-Ashraf-2210" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ashraf-2210&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf-2210&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ashraf-2210&layout=compact" />
+</div>
