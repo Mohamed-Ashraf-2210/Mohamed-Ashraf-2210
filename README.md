@@ -11,10 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
   </div>
   
-  <div align="center">
-    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="250"/>
-  </div>
-  
   ---
   
   ### :nerd_face: Who am I? (Briefly):
