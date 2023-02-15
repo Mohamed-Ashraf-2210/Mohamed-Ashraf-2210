@@ -4,7 +4,7 @@
   <img src="image/Hi2.gif" width="300px"/>
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Aahraf-lt&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
 </p>
   ---
   
