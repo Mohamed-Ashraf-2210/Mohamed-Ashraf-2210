@@ -37,7 +37,6 @@
 </p>
 <br>
 
-    ---
 
 ### :lotus_position_man: Connect with me
 <p align="center">
