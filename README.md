@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Mohamed Ashraf<br><br> <img src="image/Hi.gif" width="300px"/></h1>
+<h1 align="center"> Hi , I'm Mohamed Ashraf<br><br> <img src="image/Hi.gif" width="500px"/></h1>
 
   
   <div id="header" align="center">
