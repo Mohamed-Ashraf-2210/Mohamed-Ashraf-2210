@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
 </p>
 
+  ---
 
 ### :nerd_face: Who am I? (Briefly):
 - :man_technologist:  I am a `Junior programmer`  at Faculty of Computers & Informatics at Suez Canal University.
@@ -16,6 +17,7 @@
 <br>
 
 
+  ---
 
 ### :hammer_and_wrench: Technologies, Languages and Tools
 <p align="center">
@@ -33,18 +35,22 @@
   <img src="image/jetbrains.svg" alt="jetbrains" title="jetbrains" width="50px">
   <img src="image/vscode.svg" alt="vscode" title="vscode" width="50px">
 </p>
-  
+<br>
+
+    ---
+
 ### :lotus_position_man: Connect with me
 <p align="center">
-	<a href="mailto:ma1261327@gmail.com"><img img src="icons/gmail.svg" alt="gmail" title="gmail" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/mo-ashraaf/"><img src="icons/linkedin.svg" alt="linkedin" title="linkedin" width="50px"/></a>
-	<a href="https://www.facebook.com/mohamed2001m"><img src="icons/facebook.svg" alt="facebook" title="facebook" width="50px"/></a>
-  <a href="https://twitter.com/Mohamme07619123"><img src="icons/twitter.svg" alt="twitter" title="twitter" width="50px"/></a>
-  <a href="https://www.instagram.com/mo_ashraaf22/"><img src="icons/instagram.svg" alt="instagram" title="instagram" width="50px"/></a>
-  <a href="https://codeforces.com/profile/Mohamed_AShraaf"><img src="icons/codeforces.svg" alt="codeforces" title="codeforces" width="50px"/></a>
-  <a href="https://leetcode.com/Mohamed_AShraaf/"><img src="icons/leetcode.svg" alt="leetcode" title="leetcode" width="50px"/></a>
-  <a href="https://www.codechef.com/users/mo_ashraf7"><img src="icons/codechef.svg" alt="codechef" title="codechef" width="50px"/></a>
+	<a href="mailto:ma1261327@gmail.com"><img img src="image/gmail.svg" alt="gmail" title="gmail" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/mo-ashraaf/"><img src="image/linkedin.svg" alt="linkedin" title="linkedin" width="50px"/></a>
+  <a href="https://twitter.com/Mohamme07619123"><img src="image/twitter.svg" alt="twitter" title="twitter" width="50px"/></a>
+  <a href="https://www.instagram.com/mo_ashraaf22/"><img src="image/instagram.svg" alt="instagram" title="instagram" width="50px"/></a>
+  <a href="https://www.facebook.com/mohamed2001m"><img src="image/facebook.svg" alt="facebook" title="facebook" width="50px"/></a>
+  <a href="https://codeforces.com/profile/Mohamed_AShraaf"><img src="image/codeforces.svg" alt="codeforces" title="codeforces" width="50px"/></a>
+  <a href="https://leetcode.com/Mohamed_AShraaf/"><img src="image/leetcode.svg" alt="leetcode" title="leetcode" width="50px"/></a>
+  <a href="https://www.codechef.com/users/mo_ashraf7"><img src="image/codechef.svg" alt="codechef" title="codechef" width="50px"/></a>
 </p>
+<br>
 
   ---
   
