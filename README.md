@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi , I'm Mohamed Ashraf
-  <img src="image/Hi.gif" width="50px"/>
+  Hi , I'm Mohamed Ashraf<br>
+  <img src="image/Hi.gif" width="300px"/>
 </h1>
 
   
