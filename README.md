@@ -1,9 +1,11 @@
-<h1 align="center"> Hi , I'm Mohamed Ashraf<br><br> <img src="image/Hi.gif" width="400px"/></h1>
-  
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
-  </div>
-  
+<h1 align="center"> 
+  Hi , I'm Mohamed Ashraf
+  <br><br>
+  <img src="image/Hi2.gif" width="300px"/>
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Aahraf-lt&color=blue">
+</p>
   ---
   
   ### :nerd_face: Who am I? (Briefly):
