@@ -1,10 +1,11 @@
 <h1 align="center">
-    Hi , I'm Mohamed Ashraf
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  Hi , I'm Mohamed Ashraf
+  <img src="image/Hi.gif" width="50px"/>
+</h1>
+
   
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
+    <img src="hey.gif"/>
   </div>
   
   <div align="center">
