@@ -6,46 +6,46 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
 </p>
-  ---
+
+
+### :nerd_face: Who am I? (Briefly):
+- :man_technologist:  I am a `Junior programmer`  at Faculty of Computers & Informatics at Suez Canal University.
+- :computer:  I am a competitive programmer at `Codeforces`, `LeetCode`, `AtCoder`, `Google Contests`, `Codechef`.
+- :closed_book:  I like `reading`
+- :dancing_men:  I'm looking to collaborate with other developers.
+<br>
+
+
+
+### :hammer_and_wrench: Technologies, Languages and Tools
+<p align="center">
+  <img src="image/cpp.svg" alt="cpp" title="cpp" width="50px">
+  <img src="image/c.svg" alt="c" title="c" width="50px">
+  <img src="image/java.svg" alt="java" title="java" width="50px">
+  <img src="image/python.svg" alt="python" title="python" width="50px">
+  <img src="image/html.svg" alt="html" title="html" width="50px">
+  <img src="image/css.svg" alt="css" title="css" width="50px">
+  <img src="image/git.svg" alt="git" title="git" width="50px">
+  <img src="image/github.svg" alt="github" title="github" width="50px">
+  <img src="image/ubuntu.svg" alt="ubuntu" title="ubuntu" width="50px">
+  <img src="image/linux.svg" alt="linux" title="linux" width="50px">
+  <img src="image/markdown.svg" alt="markdown" title="markdown" width="50px">
+  <img src="image/jetbrains.svg" alt="jetbrains" title="jetbrains" width="50px">
+  <img src="image/vscode.svg" alt="vscode" title="vscode" width="50px">
+</p>
   
-  ### :nerd_face: Who am I? (Briefly):
-  - :man_technologist:  I am a Junior programmer  at Faculty of Computers & Informatics at Suez Canal University.
-  - :computer:  I am a competitive programmer at Codeforces, LeetCode, AtCoder, and Codechef.
-  - :closed_book:  I like reading
-  - :dancing_men:  I'm looking to collaborate with other developers.
-  
-  
-  ---
-  
-  ### :hammer_and_wrench: Languages and Tools :
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  </div>
-  
-  ### :lotus_position_man: Connect with me :
-  <div id="connect">
-    <a href="https://www.instagram.com/mo_ashraaf22/">
-      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instagram" width="50" height="50"/>&nbsp;
-    </a>
-    <a href="https://www.facebook.com/mohamed2001m">
-      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" alt="facebook" width="50" height="50"/>&nbsp;
-    </a>
-    <a href="https://codeforces.com/profile/Mo-AShraaf">
-      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeforces.svg" alt="codeforces" width="50" height="50"/>
-    </a>
-  </div>
-  
+### :lotus_position_man: Connect with me
+<p align="center">
+	<a href="mailto:ma1261327@gmail.com"><img img src="icons/gmail.svg" alt="gmail" title="gmail" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/mo-ashraaf/"><img src="icons/linkedin.svg" alt="linkedin" title="linkedin" width="50px"/></a>
+	<a href="https://www.facebook.com/mohamed2001m"><img src="icons/facebook.svg" alt="facebook" title="facebook" width="50px"/></a>
+  <a href="https://twitter.com/Mohamme07619123"><img src="icons/twitter.svg" alt="twitter" title="twitter" width="50px"/></a>
+  <a href="https://www.instagram.com/mo_ashraaf22/"><img src="icons/instagram.svg" alt="instagram" title="instagram" width="50px"/></a>
+  <a href="https://codeforces.com/profile/Mohamed_AShraaf"><img src="icons/codeforces.svg" alt="codeforces" title="codeforces" width="50px"/></a>
+  <a href="https://leetcode.com/Mohamed_AShraaf/"><img src="icons/leetcode.svg" alt="leetcode" title="leetcode" width="50px"/></a>
+  <a href="https://www.codechef.com/users/mo_ashraf7"><img src="icons/codechef.svg" alt="codechef" title="codechef" width="50px"/></a>
+</p>
+
   ---
   
   ### :fire: My Stats :
