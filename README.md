@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
 </p>
 <p align="center">
-  <img src="https://aktive.tk/egypt/Mohamed-Ashraf-2210" alt=""/>
+  <img src="https://aktive.tk/egypt/Mohamed-Ashraf-2210?style=flat-square&color=blue" alt=""/>
 </p>
   ---
 
