@@ -5,24 +5,34 @@
       <img src="https://komarev.com/ghpvc/?username=your-github-Mohamed-Aahraf-lt&style=flat-square&color=blue" alt=""/>
     </p>
   </h1>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Mobile+Application+Developer">
-  </a>
+     <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=600&height=100&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+KMP;Clean+Architecture+%7C+MVVM+%7C+MVI">
+      </a>
+    </p>
   <hr>
 
 ### 👩‍💻 About Me:
-- 🚀 I'm `Junior Android Developer`.
-- 🌱 Currently training at `The Chance` company, enhancing my `Android development` skills with `Kotlin`.
-- 🎓 I am a `fresh graduate`  from the Faculty of Computers & Informatics at Suez Canal University.
-- 💻 I am a competitive programmer at `Codeforces`, `LeetCode`, `AtCoder`, `Google Contests`, `Codechef`.
-- 💡 Always exploring new technologies and enhancing my problem-solving skills.
-- 👯‍♂️ I'm looking to collaborate with other developers.
-- 📫 How to reach me **mohamed.ashraf.dev24@gmail.com**
-- 📄 This is [MY RESUME](https://drive.google.com/file/d/1RsB8kOWbAR0Zv0zz-fSYPtIkd_VKdUrg/view?usp=sharing)
+- 🚀 Android Developer specialized in **Kotlin, Jetpack Compose & Kotlin Multiplatform (KMP)**
+- 🧠 Strong understanding of **Clean Architecture, MVVM / MVI**
+- 📱 Experience building scalable Android apps and **shared KMP modules**
+- 🌍 Using **KMP** to share business logic, networking, and domain layers
+- 🧩 Problem solver — **450+ problems solved on LeetCode**
+- 🤝 Open to **remote opportunities** and collaboration
+- 📫 Reach me at **mohamed.ashraf.dev24@gmail.com**
+- 📄 [My Resume](https://drive.google.com/file/d/1RsB8kOWbAR0Zv0zz-fSYPtIkd_VKdUrg/view)
 
 
-  ---
+---
+  
+### 🌍 Kotlin Multiplatform (KMP)
+- Shared business logic using **Kotlin Multiplatform**
+- Networking with **Ktor**
+- Async handling with **Coroutines & Flow**
+- Clean separation of **data / domain / presentation** layers
+- Applied in real projects (e.g. **MENA**)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools
 <p align="start">
@@ -54,11 +64,7 @@
   
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-Ashraf-2210&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mohamed-Ashraf-2210&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+
 
 ---
 
